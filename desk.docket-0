@@ -1,0 +1,9 @@
+:~
+  title+'fleet'
+  info+'fleet monitoring'
+  color+0x7a.ffff
+  version+[0 0 0]
+  website+'github.com/midden-fabler/fleet'
+  license+'MIT'
+  site+/fleet
+==
